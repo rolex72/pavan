@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rolex72
+- 👋 Hi, I’m @pavanarigarla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on google
